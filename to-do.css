@@ -154,39 +154,3 @@ h1{
     background-color: rgba(0, 0, 0, 0.404) ;
 }
 
-
-/* .delete-btn {
-    position: absolute;
-    right: 50px; 
-    top: -2px;
-    background-color: rgba(200, 200, 200, 0.3);
-    width: 25px; 
-    height: 25px;
-    border-radius: 50%; 
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.2s; 
-}
-
-.delete-btn:hover {
-    background-color: #ff4d4d;
-    color: white;
-} */
-/* .task {
-    position: relative;
-    padding-left: 35px; 
-    display: flex;
-    align-items: center;
-    height: 30px; 
-    cursor: pointer;
-} 
-.task.unchecked::before {
-    content: '';
-    position: absolute;
-    left: 0; 
-    height: 26px;
-    width: 26px;
-    background-image: url('assets/unchecked.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-} */
